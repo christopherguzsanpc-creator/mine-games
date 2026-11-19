@@ -4,9 +4,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 41,
-      "partidas": 12,
+      "bolsa": 26,
+      "partidas": 13,
       "historial": [
+        {
+          "fecha": 1795117578403,
+          "tipo": "out",
+          "titulo": "Partida: Simón Colores",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795117555822,
           "tipo": "in",
