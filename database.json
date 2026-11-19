@@ -4,9 +4,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 26,
+      "bolsa": 54,
       "partidas": 13,
       "historial": [
+        {
+          "fecha": 1795117616521,
+          "tipo": "in",
+          "titulo": "Premio: Simón Colores",
+          "det": "Acreditado en Bolsa",
+          "monto": "+28 PM"
+        },
         {
           "fecha": 1795117578403,
           "tipo": "out",
