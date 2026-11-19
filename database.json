@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 2,
+      "bolsa": 17,
       "partidas": 15,
       "historial": [
+        {
+          "fecha": 1795126201988,
+          "tipo": "sys",
+          "titulo": "Carga desde Mine-Banco",
+          "det": "Disponible en Bolsa de Juego",
+          "monto": "+15 PM"
+        },
         {
           "fecha": 1795126193772,
           "tipo": "out",
