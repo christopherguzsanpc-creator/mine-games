@@ -284,9 +284,16 @@
       ]
     },
     "kitty": {
-      "bolsa": 0,
+      "bolsa": 15,
       "partidas": 1,
       "historial": [
+        {
+          "fecha": 1795125907339,
+          "tipo": "sys",
+          "titulo": "Carga desde Mine-Banco",
+          "det": "Disponible en Bolsa de Juego",
+          "monto": "+15 PM"
+        },
         {
           "fecha": 1795125812625,
           "tipo": "out",
