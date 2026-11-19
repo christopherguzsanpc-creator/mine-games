@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 2,
+      "bolsa": 20,
       "partidas": 16,
       "historial": [
+        {
+          "fecha": 1795126208412,
+          "tipo": "in",
+          "titulo": "Premio: Cohete Crash",
+          "det": "Acreditado en Bolsa",
+          "monto": "+18 PM"
+        },
         {
           "fecha": 1795126205427,
           "tipo": "out",
