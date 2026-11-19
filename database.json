@@ -284,9 +284,16 @@
       ]
     },
     "kitty": {
-      "bolsa": 15,
-      "partidas": 2,
+      "bolsa": 0,
+      "partidas": 3,
       "historial": [
+        {
+          "fecha": 1795126009994,
+          "tipo": "out",
+          "titulo": "Partida: Busca-Gemas",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795126001066,
           "tipo": "sys",
