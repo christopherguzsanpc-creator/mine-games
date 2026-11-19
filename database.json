@@ -242,9 +242,16 @@
       ]
     },
     "marvel": {
-      "bolsa": 28,
+      "bolsa": 0,
       "partidas": 1,
       "historial": [
+        {
+          "fecha": 1795117989766,
+          "tipo": "sys",
+          "titulo": "Cobro enviado a Mine-Banco",
+          "det": "Transferido al banco",
+          "monto": "-28 PM"
+        },
         {
           "fecha": 1795117982156,
           "tipo": "in",
