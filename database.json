@@ -1,4 +1,20 @@
 {
-  "bonos_entregados": {},
-  "jugadores": {}
+  "bonos_entregados": {
+    "chrispro32": true
+  },
+  "jugadores": {
+    "chrispro32": {
+      "bolsa": 0,
+      "partidas": 0,
+      "historial": [
+        {
+          "fecha": 1795117052577,
+          "tipo": "in",
+          "titulo": "Bono Único de Bienvenida",
+          "det": "Otorgado una sola vez en la vida",
+          "monto": "+15 PM"
+        }
+      ]
+    }
+  }
 }
