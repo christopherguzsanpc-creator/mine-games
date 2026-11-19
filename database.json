@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 0,
+      "bolsa": 17,
       "partidas": 14,
       "historial": [
+        {
+          "fecha": 1795126184522,
+          "tipo": "in",
+          "titulo": "Premio: Número Secreto",
+          "det": "Acreditado en Bolsa",
+          "monto": "+17 PM"
+        },
         {
           "fecha": 1795126145996,
           "tipo": "out",
