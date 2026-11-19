@@ -4,9 +4,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 16,
-      "partidas": 4,
+      "bolsa": 1,
+      "partidas": 5,
       "historial": [
+        {
+          "fecha": 1795117293112,
+          "tipo": "out",
+          "titulo": "Partida: Cohete Crash",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795117288751,
           "tipo": "in",
