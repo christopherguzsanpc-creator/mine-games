@@ -242,9 +242,16 @@
       ]
     },
     "marvel": {
-      "bolsa": 0,
+      "bolsa": 28,
       "partidas": 1,
       "historial": [
+        {
+          "fecha": 1795117982156,
+          "tipo": "in",
+          "titulo": "Premio: Simón Colores (Nivel 6)",
+          "det": "Acreditado en Bolsa",
+          "monto": "+28 PM"
+        },
         {
           "fecha": 1795117943796,
           "tipo": "out",
