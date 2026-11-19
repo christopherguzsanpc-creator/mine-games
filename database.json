@@ -284,9 +284,16 @@
       ]
     },
     "kitty": {
-      "bolsa": 15,
-      "partidas": 3,
+      "bolsa": 0,
+      "partidas": 4,
       "historial": [
+        {
+          "fecha": 1795126065795,
+          "tipo": "out",
+          "titulo": "Partida: Simón Colores",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795126061300,
           "tipo": "sys",
