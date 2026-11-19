@@ -4,9 +4,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 13,
+      "bolsa": 0,
       "partidas": 2,
       "historial": [
+        {
+          "fecha": 1795117251946,
+          "tipo": "sys",
+          "titulo": "Cobro enviado a Mine-Banco",
+          "det": "Transferido al banco",
+          "monto": "-13 PM"
+        },
         {
           "fecha": 1795117129714,
           "tipo": "out",
