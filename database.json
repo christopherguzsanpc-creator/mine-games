@@ -242,9 +242,16 @@
       ]
     },
     "marvel": {
-      "bolsa": 15,
-      "partidas": 0,
+      "bolsa": 0,
+      "partidas": 1,
       "historial": [
+        {
+          "fecha": 1795117943796,
+          "tipo": "out",
+          "titulo": "Partida: Simón Colores",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795117932201,
           "tipo": "sys",
