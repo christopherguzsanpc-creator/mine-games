@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 15,
-      "partidas": 13,
+      "bolsa": 0,
+      "partidas": 14,
       "historial": [
+        {
+          "fecha": 1795126145996,
+          "tipo": "out",
+          "titulo": "Partida: Número Secreto",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795126079905,
           "tipo": "sys",
