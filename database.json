@@ -284,9 +284,16 @@
       ]
     },
     "kitty": {
-      "bolsa": 28,
+      "bolsa": 0,
       "partidas": 2,
       "historial": [
+        {
+          "fecha": 1795125977930,
+          "tipo": "sys",
+          "titulo": "Cobro enviado a Mine-Banco",
+          "det": "Transferido al banco",
+          "monto": "-28 PM"
+        },
         {
           "fecha": 1795125966001,
           "tipo": "in",
