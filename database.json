@@ -291,9 +291,16 @@
       ]
     },
     "kitty": {
-      "bolsa": 4,
+      "bolsa": 20,
       "partidas": 5,
       "historial": [
+        {
+          "fecha": 1795126115061,
+          "tipo": "in",
+          "titulo": "Premio: Simón Colores",
+          "det": "Acreditado en Bolsa",
+          "monto": "+16 PM"
+        },
         {
           "fecha": 1795126097742,
           "tipo": "out",
