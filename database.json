@@ -1,8 +1,8 @@
 {
   "bonos_entregados": {
-    "chrispro32": true,
-    "marvel": true,
-    "kitty": true
+    "chrispro32": false,
+    "marvel": false,
+    "kitty": false
   },
   "jugadores": {
     "chrispro32": {
