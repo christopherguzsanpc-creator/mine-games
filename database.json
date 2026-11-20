@@ -1,6 +1,6 @@
 {
   "bonos_entregados": {
-    "chrispro32": false,
+    "chrispro32": true,
     "marvel": false,
     "kitty": false
   },
@@ -9,6 +9,13 @@
       "bolsa": 1,
       "partidas": 23,
       "historial": [
+        {
+          "fecha": 1795192071637,
+          "tipo": "in",
+          "titulo": "Bono Único de Bienvenida",
+          "det": "Otorgado una sola vez en la vida",
+          "monto": "+15 PM"
+        },
         {
           "fecha": 1795191908829,
           "tipo": "out",
@@ -281,13 +288,6 @@
           "titulo": "Partida: Cohete Crash",
           "det": "Apuesta descontada",
           "monto": "-15 PM"
-        },
-        {
-          "fecha": 1795117300639,
-          "tipo": "in",
-          "titulo": "Premio: Cohete Crash",
-          "det": "Acreditado en Bolsa",
-          "monto": "+16 PM"
         }
       ]
     },
