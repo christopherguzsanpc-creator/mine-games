@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 95,
+      "bolsa": 140,
       "partidas": 17,
       "historial": [
+        {
+          "fecha": 1795185967910,
+          "tipo": "sys",
+          "titulo": "Carga desde Mine-Banco",
+          "det": "Disponible en Bolsa de Juego",
+          "monto": "+45 PM"
+        },
         {
           "fecha": 1795185963309,
           "tipo": "sys",
@@ -281,13 +288,6 @@
           "titulo": "Partida: Cohete Crash",
           "det": "Apuesta descontada",
           "monto": "-15 PM"
-        },
-        {
-          "fecha": 1795117111064,
-          "tipo": "in",
-          "titulo": "Premio: Simón Colores (Nivel 6)",
-          "det": "Acreditado en Bolsa",
-          "monto": "+28 PM"
         }
       ]
     },
