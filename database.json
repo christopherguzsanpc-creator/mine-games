@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 140,
-      "partidas": 17,
+      "bolsa": 125,
+      "partidas": 18,
       "historial": [
+        {
+          "fecha": 1795185973075,
+          "tipo": "out",
+          "titulo": "Partida: Simón Colores",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795185967910,
           "tipo": "sys",
@@ -281,13 +288,6 @@
           "titulo": "Cobro enviado a Mine-Banco",
           "det": "Transferido al banco",
           "monto": "-13 PM"
-        },
-        {
-          "fecha": 1795117129714,
-          "tipo": "out",
-          "titulo": "Partida: Cohete Crash",
-          "det": "Apuesta descontada",
-          "monto": "-15 PM"
         }
       ]
     },
