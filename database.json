@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 50,
+      "bolsa": 95,
       "partidas": 17,
       "historial": [
+        {
+          "fecha": 1795185963309,
+          "tipo": "sys",
+          "titulo": "Carga desde Mine-Banco",
+          "det": "Disponible en Bolsa de Juego",
+          "monto": "+45 PM"
+        },
         {
           "fecha": 1795185932094,
           "tipo": "sys",
@@ -281,13 +288,6 @@
           "titulo": "Premio: Simón Colores (Nivel 6)",
           "det": "Acreditado en Bolsa",
           "monto": "+28 PM"
-        },
-        {
-          "fecha": 1795117068026,
-          "tipo": "out",
-          "titulo": "Partida: Simón Colores",
-          "det": "Apuesta descontada",
-          "monto": "-15 PM"
         }
       ]
     },
