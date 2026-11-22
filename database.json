@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 49.5,
-      "partidas": 27,
+      "bolsa": 34.5,
+      "partidas": 28,
       "historial": [
+        {
+          "fecha": 1795379899598,
+          "tipo": "out",
+          "titulo": "Partida: Carrera de Carros",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795379895560,
           "tipo": "sys",
@@ -281,13 +288,6 @@
           "titulo": "Premio: Cohete Crash",
           "det": "Acreditado en Bolsa",
           "monto": "+21 PM"
-        },
-        {
-          "fecha": 1795117516619,
-          "tipo": "in",
-          "titulo": "Premio: Cohete Crash",
-          "det": "Acreditado en Bolsa",
-          "monto": "+17 PM"
         }
       ]
     },
