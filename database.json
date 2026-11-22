@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 31.8,
-      "partidas": 41,
+      "bolsa": 16.8,
+      "partidas": 42,
       "historial": [
+        {
+          "fecha": 1795380709505,
+          "tipo": "out",
+          "titulo": "Partida: Tres en Raya",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795380705380,
           "tipo": "in",
@@ -281,13 +288,6 @@
           "titulo": "Partida: Carrera de Carros",
           "det": "Apuesta descontada",
           "monto": "-15 PM"
-        },
-        {
-          "fecha": 1795379597630,
-          "tipo": "sys",
-          "titulo": "Carga desde Mine-Banco",
-          "det": "Disponible en Bolsa de Juego",
-          "monto": "+45 PM"
         }
       ]
     },
