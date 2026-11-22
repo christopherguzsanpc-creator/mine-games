@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 9.6,
+      "bolsa": 24.6,
       "partidas": 37,
       "historial": [
+        {
+          "fecha": 1795380622754,
+          "tipo": "sys",
+          "titulo": "Carga desde Mine-Banco",
+          "det": "Disponible en Bolsa de Juego",
+          "monto": "+15 PM"
+        },
         {
           "fecha": 1795380617573,
           "tipo": "in",
@@ -281,13 +288,6 @@
           "titulo": "Carga desde Mine-Banco",
           "det": "Disponible en Bolsa de Juego",
           "monto": "+45 PM"
-        },
-        {
-          "fecha": 1795191839809,
-          "tipo": "sys",
-          "titulo": "Cobro enviado a Mine-Banco",
-          "det": "Transferido al banco",
-          "monto": "-138 PM"
         }
       ]
     },
