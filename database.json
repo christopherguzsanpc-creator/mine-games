@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 39.3,
-      "partidas": 40,
+      "bolsa": 24.3,
+      "partidas": 41,
       "historial": [
+        {
+          "fecha": 1795380683735,
+          "tipo": "out",
+          "titulo": "Partida: Tres en Raya",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795380681294,
           "tipo": "in",
@@ -281,13 +288,6 @@
           "titulo": "Cobro enviado a Mine-Banco",
           "det": "Transferido al banco",
           "monto": "-1 PM"
-        },
-        {
-          "fecha": 1795192071637,
-          "tipo": "in",
-          "titulo": "Bono Único de Bienvenida",
-          "det": "Otorgado una sola vez en la vida",
-          "monto": "+15 PM"
         }
       ]
     },
