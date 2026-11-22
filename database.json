@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 25.9,
-      "partidas": 29,
+      "bolsa": 10.9,
+      "partidas": 30,
       "historial": [
+        {
+          "fecha": 1795379921547,
+          "tipo": "out",
+          "titulo": "Partida: Carrera de Carros",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795379917677,
           "tipo": "in",
@@ -281,13 +288,6 @@
           "titulo": "Partida: Simón Colores",
           "det": "Apuesta descontada",
           "monto": "-15 PM"
-        },
-        {
-          "fecha": 1795117555822,
-          "tipo": "in",
-          "titulo": "Premio: Cohete Crash",
-          "det": "Acreditado en Bolsa",
-          "monto": "+18 PM"
         }
       ]
     },
