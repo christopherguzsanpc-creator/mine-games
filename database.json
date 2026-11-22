@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 0,
+      "bolsa": 15,
       "partidas": 34,
       "historial": [
+        {
+          "fecha": 1795380554341,
+          "tipo": "sys",
+          "titulo": "Carga desde Mine-Banco",
+          "det": "Disponible en Bolsa de Juego",
+          "monto": "+15 PM"
+        },
         {
           "fecha": 1795380548166,
           "tipo": "sys",
@@ -281,13 +288,6 @@
           "titulo": "Premio: Cohete Crash",
           "det": "Acreditado en Bolsa",
           "monto": "+18 PM"
-        },
-        {
-          "fecha": 1795126205427,
-          "tipo": "out",
-          "titulo": "Partida: Cohete Crash",
-          "det": "Apuesta descontada",
-          "monto": "-15 PM"
         }
       ]
     },
