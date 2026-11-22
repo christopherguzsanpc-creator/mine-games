@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 31.8,
+      "bolsa": 39.3,
       "partidas": 40,
       "historial": [
+        {
+          "fecha": 1795380681294,
+          "tipo": "in",
+          "titulo": "Premio: Tres en Raya (Empate)",
+          "det": "Acreditado en Bolsa",
+          "monto": "+7,5 PM"
+        },
         {
           "fecha": 1795380669608,
           "tipo": "out",
@@ -281,13 +288,6 @@
           "titulo": "Bono Único de Bienvenida",
           "det": "Otorgado una sola vez en la vida",
           "monto": "+15 PM"
-        },
-        {
-          "fecha": 1795191908829,
-          "tipo": "out",
-          "titulo": "Partida: Cohete Crash",
-          "det": "Apuesta descontada",
-          "monto": "-15 PM"
         }
       ]
     },
