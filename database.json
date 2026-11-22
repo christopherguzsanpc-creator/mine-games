@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 30,
+      "bolsa": 42,
       "partidas": 24,
       "historial": [
+        {
+          "fecha": 1795379625775,
+          "tipo": "in",
+          "titulo": "Premio: Carrera de Carros",
+          "det": "Acreditado en Bolsa",
+          "monto": "+12 PM"
+        },
         {
           "fecha": 1795379604134,
           "tipo": "out",
@@ -281,13 +288,6 @@
           "titulo": "Cobro enviado a Mine-Banco",
           "det": "Transferido al banco",
           "monto": "-23 PM"
-        },
-        {
-          "fecha": 1795117310501,
-          "tipo": "in",
-          "titulo": "Premio: Cohete Crash",
-          "det": "Acreditado en Bolsa",
-          "monto": "+18 PM"
         }
       ]
     },
