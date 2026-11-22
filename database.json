@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 24.3,
+      "bolsa": 31.8,
       "partidas": 41,
       "historial": [
+        {
+          "fecha": 1795380705380,
+          "tipo": "in",
+          "titulo": "Premio: Tres en Raya (Empate)",
+          "det": "Acreditado en Bolsa",
+          "monto": "+7,5 PM"
+        },
         {
           "fecha": 1795380683735,
           "tipo": "out",
@@ -281,13 +288,6 @@
           "titulo": "Carga desde Mine-Banco",
           "det": "Disponible en Bolsa de Juego",
           "monto": "+45 PM"
-        },
-        {
-          "fecha": 1795379211031,
-          "tipo": "sys",
-          "titulo": "Cobro enviado a Mine-Banco",
-          "det": "Transferido al banco",
-          "monto": "-1 PM"
         }
       ]
     },
