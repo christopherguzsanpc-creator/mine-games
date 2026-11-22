@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 9.3,
+      "bolsa": 16.5,
       "partidas": 44,
       "historial": [
+        {
+          "fecha": 1795382768338,
+          "tipo": "in",
+          "titulo": "Premio: Carrera HD",
+          "det": "Acreditado en Bolsa",
+          "monto": "+7,2 PM"
+        },
         {
           "fecha": 1795382750134,
           "tipo": "out",
@@ -281,13 +288,6 @@
           "titulo": "Partida: Tres en Raya Ultra",
           "det": "Apuesta descontada",
           "monto": "-15 PM"
-        },
-        {
-          "fecha": 1795379666562,
-          "tipo": "in",
-          "titulo": "Premio: Tres en Raya (Empate)",
-          "det": "Acreditado en Bolsa",
-          "monto": "+7,5 PM"
         }
       ]
     },
