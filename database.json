@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 16.5,
+      "bolsa": 31.5,
       "partidas": 44,
       "historial": [
+        {
+          "fecha": 1795382775943,
+          "tipo": "sys",
+          "titulo": "Carga desde Mine-Banco",
+          "det": "Disponible en Bolsa de Juego",
+          "monto": "+15 PM"
+        },
         {
           "fecha": 1795382768338,
           "tipo": "in",
@@ -281,13 +288,6 @@
           "titulo": "Carga desde Mine-Banco",
           "det": "Disponible en Bolsa de Juego",
           "monto": "+45 PM"
-        },
-        {
-          "fecha": 1795379670712,
-          "tipo": "out",
-          "titulo": "Partida: Tres en Raya Ultra",
-          "det": "Apuesta descontada",
-          "monto": "-15 PM"
         }
       ]
     },
