@@ -459,9 +459,16 @@
       ]
     },
     "marlingsan": {
-      "bolsa": 27.5,
-      "partidas": 2,
+      "bolsa": 12.5,
+      "partidas": 3,
       "historial": [
+        {
+          "fecha": 1795484580102,
+          "tipo": "out",
+          "titulo": "Partida: Busca-Gemas",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795484566425,
           "tipo": "in",
