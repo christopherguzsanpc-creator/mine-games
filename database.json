@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 15,
-      "partidas": 47,
+      "bolsa": 0,
+      "partidas": 48,
       "historial": [
+        {
+          "fecha": 1795480509107,
+          "tipo": "out",
+          "titulo": "Partida: Simón Colores",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795480502465,
           "tipo": "sys",
@@ -281,13 +288,6 @@
           "titulo": "Premio: Carrera HD",
           "det": "Acreditado en Bolsa",
           "monto": "+9,6 PM"
-        },
-        {
-          "fecha": 1795380421647,
-          "tipo": "out",
-          "titulo": "Partida: Carrera HD",
-          "det": "Apuesta descontada",
-          "monto": "-15 PM"
         }
       ]
     },
