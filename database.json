@@ -459,9 +459,16 @@
       ]
     },
     "marlingsan": {
-      "bolsa": 15,
-      "partidas": 1,
+      "bolsa": 0,
+      "partidas": 2,
       "historial": [
+        {
+          "fecha": 1795484524809,
+          "tipo": "out",
+          "titulo": "Partida: Simón Colores",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795484518553,
           "tipo": "sys",
