@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 15,
-      "partidas": 46,
+      "bolsa": 0,
+      "partidas": 47,
       "historial": [
+        {
+          "fecha": 1795480464552,
+          "tipo": "out",
+          "titulo": "Partida: Carrera HD",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795480460877,
           "tipo": "sys",
@@ -281,13 +288,6 @@
           "titulo": "Premio: Carrera de Carros",
           "det": "Acreditado en Bolsa",
           "monto": "+2,4 PM"
-        },
-        {
-          "fecha": 1795379941224,
-          "tipo": "out",
-          "titulo": "Partida: Carrera de Carros",
-          "det": "Apuesta descontada",
-          "monto": "-15 PM"
         }
       ]
     },
