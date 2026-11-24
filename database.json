@@ -6,9 +6,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 11.1,
+      "bolsa": 0,
       "partidas": 46,
       "historial": [
+        {
+          "fecha": 1795480432305,
+          "tipo": "sys",
+          "titulo": "Cobro enviado a Mine-Banco",
+          "det": "Transferido al banco",
+          "monto": "-11,1 PM"
+        },
         {
           "fecha": 1795382807143,
           "tipo": "in",
@@ -281,13 +288,6 @@
           "titulo": "Premio: Carrera de Carros",
           "det": "Acreditado en Bolsa",
           "monto": "+4 PM"
-        },
-        {
-          "fecha": 1795379921547,
-          "tipo": "out",
-          "titulo": "Partida: Carrera de Carros",
-          "det": "Apuesta descontada",
-          "monto": "-15 PM"
         }
       ]
     },
