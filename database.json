@@ -459,9 +459,16 @@
       ]
     },
     "marlingsan": {
-      "bolsa": 0,
+      "bolsa": 27.5,
       "partidas": 2,
       "historial": [
+        {
+          "fecha": 1795484566425,
+          "tipo": "in",
+          "titulo": "Premio: Simón Colores (Nivel 6)",
+          "det": "Acreditado en Bolsa",
+          "monto": "+27,5 PM"
+        },
         {
           "fecha": 1795484524809,
           "tipo": "out",
