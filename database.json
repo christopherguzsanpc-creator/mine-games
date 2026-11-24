@@ -1,6 +1,6 @@
 {
   "bonos_entregados": {
-    "chrispro32": false,
+    "chrispro32": true,
     "marvel": false,
     "kitty": false
   },
@@ -9,6 +9,13 @@
       "bolsa": 0,
       "partidas": 46,
       "historial": [
+        {
+          "fecha": 1795480445849,
+          "tipo": "in",
+          "titulo": "Bono Único de Bienvenida",
+          "det": "Otorgado una sola vez en la vida",
+          "monto": "+15 PM"
+        },
         {
           "fecha": 1795480432305,
           "tipo": "sys",
@@ -281,13 +288,6 @@
           "titulo": "Carga desde Mine-Banco",
           "det": "Disponible en Bolsa de Juego",
           "monto": "+45 PM"
-        },
-        {
-          "fecha": 1795379932941,
-          "tipo": "in",
-          "titulo": "Premio: Carrera de Carros",
-          "det": "Acreditado en Bolsa",
-          "monto": "+4 PM"
         }
       ]
     },
