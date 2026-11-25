@@ -7,9 +7,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 16.8,
-      "partidas": 54,
+      "bolsa": 1.8,
+      "partidas": 55,
       "historial": [
+        {
+          "fecha": 1795616534936,
+          "tipo": "out",
+          "titulo": "Partida: Cohete Crash",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795616532007,
           "tipo": "in",
@@ -282,13 +289,6 @@
           "titulo": "Partida: Tres en Raya",
           "det": "Apuesta descontada",
           "monto": "-15 PM"
-        },
-        {
-          "fecha": 1795380665829,
-          "tipo": "sys",
-          "titulo": "Carga desde Mine-Banco",
-          "det": "Disponible en Bolsa de Juego",
-          "monto": "+45 PM"
         }
       ]
     },
