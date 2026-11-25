@@ -7,9 +7,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 46.8,
-      "partidas": 55,
+      "bolsa": 31.8,
+      "partidas": 56,
       "historial": [
+        {
+          "fecha": 1795616931157,
+          "tipo": "out",
+          "titulo": "Partida: Cohete Crash",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795616926131,
           "tipo": "sys",
@@ -282,13 +289,6 @@
           "titulo": "Partida: Tres en Raya",
           "det": "Apuesta descontada",
           "monto": "-15 PM"
-        },
-        {
-          "fecha": 1795380681294,
-          "tipo": "in",
-          "titulo": "Premio: Tres en Raya (Empate)",
-          "det": "Acreditado en Bolsa",
-          "monto": "+7,5 PM"
         }
       ]
     },
