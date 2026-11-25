@@ -7,9 +7,16 @@
   },
   "jugadores": {
     "chrispro32": {
-      "bolsa": 18.4,
-      "partidas": 50,
+      "bolsa": 3.4,
+      "partidas": 51,
       "historial": [
+        {
+          "fecha": 1795616466765,
+          "tipo": "out",
+          "titulo": "Partida: Carrera HD",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795616462772,
           "tipo": "in",
@@ -282,13 +289,6 @@
           "titulo": "Partida: Carrera HD",
           "det": "Apuesta descontada",
           "monto": "-15 PM"
-        },
-        {
-          "fecha": 1795380575816,
-          "tipo": "sys",
-          "titulo": "Carga desde Mine-Banco",
-          "det": "Disponible en Bolsa de Juego",
-          "monto": "+15 PM"
         }
       ]
     },
