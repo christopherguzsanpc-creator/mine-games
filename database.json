@@ -515,9 +515,16 @@
       ]
     },
     "kittymiau": {
-      "bolsa": 15,
-      "partidas": 0,
+      "bolsa": 0,
+      "partidas": 1,
       "historial": [
+        {
+          "fecha": 1795816276960,
+          "tipo": "out",
+          "titulo": "Partida: Carrera HD",
+          "det": "Apuesta descontada",
+          "monto": "-15 PM"
+        },
         {
           "fecha": 1795816151708,
           "tipo": "sys",
