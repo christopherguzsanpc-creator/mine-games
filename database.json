@@ -515,9 +515,16 @@
       ]
     },
     "kittymiau": {
-      "bolsa": 0,
+      "bolsa": 15,
       "partidas": 0,
       "historial": [
+        {
+          "fecha": 1795816151708,
+          "tipo": "sys",
+          "titulo": "Carga desde Mine-Banco",
+          "det": "Disponible en Bolsa de Juego",
+          "monto": "+15 PM"
+        },
         {
           "fecha": 1795816126372,
           "tipo": "in",
